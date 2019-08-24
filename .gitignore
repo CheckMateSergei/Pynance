@@ -1,0 +1,5 @@
+datasets/
+S&P500corr.png
+stock_dfs/
+sp500tickers.pickle
+.ropeproject/
